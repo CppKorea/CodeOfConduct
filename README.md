@@ -78,3 +78,5 @@ CoC의 목표는 커뮤니티에서 발생할 수 있는 문제들을 예방하�
 둘째, 일부 문제들은 그 범위가 커뮤니티 차원에서 중재하거나 해결할 수 있는 수준을 넘어설수도 있습니다.
 
 발생할 수 있는 문제들을 모두 알 수는 없지만, 단순히 앞서 기술한 내용들을 ‘공감’하고 ‘이해’해주시는 것 만으로 지속 가능한 커뮤니티를 만드는 데 큰 도움이 됩니다.
+
+<a href="https://creativecommons.org/licenses/by-nc/4.0/deed.ko"><img src="https://i.creativecommons.org/l/by-nc/3.0/88x31.png"></a>
